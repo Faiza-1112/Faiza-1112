@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Faiza-1112
-- 👀 I’m interested in ROBOTICS
+- 👀 I’m interested in AI and VLSI
 - 🌱 I’m currently learning ECE
-- 💞️ I’m looking to collaborate on AI TOOLS
+- 💞️ I’m looking to collaborate on AI TOOLS and IOT
 - 📫 How to reach me faizarasool448@gmail.com
 
 <!---
