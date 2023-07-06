@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Faiza-1112
 - 👀 I’m interested in AI and VLSI
-- 🌱 I’m currently learning Electronics and communication engineering and minor degree in Computer technology
+- 🌱 I’m currently learning B.E Electronics and communication engineering and minor degree in Computer technology
 - 💞️ I’m looking to collaborate on Internships
 - 📫 How to reach me faizarasool448@gmail.com
 
